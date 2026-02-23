@@ -56,7 +56,7 @@ We accept content related to:
 
 - Respect all members and contributors  
 - Avoid spam or self-promotion unrelated to tech products or growth  
-- Follow GitHub’s [Code of Conduct](CODE_OF_CONDUCT.md)  
+- Follow GitHub’s [Code of Conduct](Code of Conduct.md)  
 
 ---
 
