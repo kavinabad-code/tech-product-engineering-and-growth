@@ -41,7 +41,7 @@ We welcome guest posts! To contribute:
 2. Share your idea or draft  
 3. Review process occurs, then posts are published under the relevant category  
 
-Please read our **[CONTRIBUTING.md](CONTRIBUTING.md)** and **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** for submission rules and guidelines.
+Please read our **[CONTRIBUTING.md](contributing)** and **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** for submission rules and guidelines.
 
 ---
 
