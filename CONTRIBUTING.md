@@ -56,7 +56,7 @@ We accept content related to:
 
 - Respect all members and contributors  
 - Avoid spam or self-promotion unrelated to tech products or growth  
-- Follow GitHub’s [Code of Conduct](Code of Conduct.md)  
+- Follow GitHub’s [Code of Conduct](https://github.com/kavinabad-code/tech-product-engineering-and-growth/blob/fb3bf66a4e83318fb513fff1235494c8c665053a/Code%20of%20Conduct.md)
 
 ---
 
