@@ -41,7 +41,7 @@ We welcome guest posts! To contribute:
 2. Share your idea or draft  
 3. Review process occurs, then posts are published under the relevant category  
 
-Please read our **[CONTRIBUTING.md](contributing)** and **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** for submission rules and guidelines.
+Please read our **[CONTRIBUTING.md](https://github.com/kavinabad-code/tech-product-engineering-and-growth/tree/main?tab=contributing-ov-file)** and **[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)** for submission rules and guidelines.
 
 ---
 
